@@ -28,3 +28,8 @@ To launch the notebook, open the terminal and run the command:
 -   importing data: jupyter notebook importData.ipynb
 
 -   generate CrossTabs: jupyter notebook createCrossTabs.ipynb
+
+A link to the tableau story: 
+https://public.tableau.com/app/profile/malik.d7750/viz/FinalPresentation_16834478715670/Story1?publish=yes
+
+The storyboard doesn’t contain every step I took as part of the analysis—only those relevant to the final results.
